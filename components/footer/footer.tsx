@@ -14,7 +14,7 @@ const Footer = ():ReactElement => {
             <p>Terms of Service</p>
             <p>Privacy Policy</p>
             <p>Help</p>
-            <div className={styles.footer__credit}>Build by stanley | design by thejelly.io</div>
+            <div className={styles.footer__credit}>Built by reubence.com | design by thejelly.io</div>
         </div>
     </div>
   )
